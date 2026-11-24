@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "DeepSeek-Bar 卡包抽屉消息窗与原版悬浮分身 (v1.0)",
+    "description": "独立通用插件：在原生输入框正上方挂载同宽 24px 圆角悬停展开聊天记录卡，支持左右边缘拖拽拉伸宽度，并支持用本机 Edge/Chrome 启动 100% 原版 UI 实时同步分身气泡。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}

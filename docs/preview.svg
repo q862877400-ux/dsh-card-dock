@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240">
+  <rect width="640" height="240" rx="16" fill="#111215"/>
+  <rect x="70" y="38" width="500" height="96" rx="24" fill="#1f1f22" stroke="#3f3f46" stroke-width="1.2"/>
+  <text x="96" y="68" fill="#f9fafb" font-family="sans-serif" font-size="13" font-weight="bold">Agent:</text>
+  <text x="148" y="68" fill="#cfd3d6" font-family="sans-serif" font-size="13">鼠标悬停自动向上弹出历史对话流，移开自动收起…</text>
+  <rect x="70" y="96" width="500" height="106" rx="24" fill="#2c2c2e" stroke="#52525b" stroke-width="1.4"/>
+  <text x="96" y="132" fill="#8e8e93" font-family="sans-serif" font-size="13">发消息或创建任务，/ 调用指令，@ 文件或对话（主窗口与悬浮分身实时同步）</text>
+  <circle cx="98" cy="174" r="14" fill="#3a3a3d"/>
+  <text x="93" y="179" fill="#e5e7eb" font-family="sans-serif" font-size="16">+</text>
+  <circle cx="540" cy="174" r="15" fill="#6d9eff"/>
+  <line x1="64" y1="74" x2="64" y2="182" stroke="#6ea8fe" stroke-width="3" stroke-linecap="round"/>
+  <line x1="576" y1="74" x2="576" y2="182" stroke="#6ea8fe" stroke-width="3" stroke-linecap="round"/>
+</svg>

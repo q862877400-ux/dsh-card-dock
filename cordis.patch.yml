@@ -1,0 +1,4 @@
+# @local/dsh-card-dock v1.0.0 — 独立 DeepSeek Harness 卡包抽屉卡与原版浏览器分身插件
+- insert:
+    - id: dsh-card-dock-host
+      name: '@local/dsh-card-dock'

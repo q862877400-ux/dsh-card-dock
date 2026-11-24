@@ -1,0 +1,20 @@
+# 依赖与构建产物（本插件是纯源码包，正常运行不需要 node_modules）
+node_modules/
+dist/
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地日志与临时文件
+*.log
+*.tmp

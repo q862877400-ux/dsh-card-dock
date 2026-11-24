@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "DeepSeek-Bar Cardholder Chat Slip & Live Browser Twin (v1.0)",
+    "description": "Standalone DSH plugin: mounts an equal-width 24px-radius hover-expandable chat history card above the native composer, with left/right width drag handles and 100% native Edge/Chrome floating twin bubble.",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}
